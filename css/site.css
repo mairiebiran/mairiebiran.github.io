@@ -7,3 +7,8 @@ body {
 .navbar-brand img {
   display: inline-block;
 }
+
+address {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
